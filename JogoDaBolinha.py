@@ -1,5 +1,3 @@
-#pip3 install --user http://bit.ly/csc161graphics
-
 from graphics import *
 import random
 
